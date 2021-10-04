@@ -7,7 +7,7 @@ import (
 	"net"
 	"time"
 
-	calculatorPB "github.com/watain666/grpc/proto/calculator"
+	calculatorPB "grpc/msg/calculator"
 
 	"google.golang.org/grpc"
 )
